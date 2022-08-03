@@ -1,0 +1,47 @@
+POST /quiz/2 HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           ja,en-US;q=0.9,en;q=0.8
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Content-Length:            459
+Content-Type:              multipart/form-data; boundary=----WebKitFormBoundaryfl9v1ZieppRzd5FA
+Cookie:                    XSRF-TOKEN=eyJpdiI6ImhjQnZoNDVjZktXM0VIWUNWVGVxVXc9PSIsInZhbHVlIjoiTHVmNU9NOWxJb29rL2JRbmNIanBtMjJZc2VZSUhOZlpXRlg2a2dCdzYwcExGTTZNaEx2WC95Mjk3YU5NUXQxUFpzNTVkcTdydzIrTzgyK1d5V09JdW9VUnFpdXJDZm1Va0JWbGlJTVVnajdnRG01YkpNL1NiT1lSNmJSenNtS3YiLCJtYWMiOiJlOTdjM2VhMzQxNTEwN2EyYWJlNGY1ZTFmMTFhZjgxNDJhMzkxZDUxMWYxNTY4Zjc4Mjk0Y2FhMjU0MjI4OTgzIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Ilh1Ym0veFZ1U0F4NnlCemJqL05pcnc9PSIsInZhbHVlIjoieGpwdVB5NXNJYUcvZ2daeEZnTzFMS3NLUytyemFSOGplcTdMUXRWLzlTUm14M25zbHZzWHdyRE1MdHEwSDBTMk1RQlZHTDlEYWFLMUVsVkFGRVZjak5wVjVqdk1VbFQ1djBxelB2QTF3Nlo4dDhQYzNCdWtYNXViWGl2b0ZuMmIiLCJtYWMiOiJmNGNjNzZmNWY5MWM3OGE5NjkyODgzOTIwMjAxOGRlZGM1MzMxMjNmZTVhZDQ4NDA4ZjQyYjUzNDRmN2IxNzk2IiwidGFnIjoiIn0%3D
+Host:                      localhost:8000
+Origin:                    http://localhost:8000
+Referer:                   http://localhost:8000/quiz/1
+Sec-Ch-Ua:                 " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        "Windows"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            same-origin
+Sec-Fetch-User:            ?1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+Cookie: XSRF-TOKEN=5qhrNMgIKDOJTCY2bRZPsV8powDLT5p1LKxpxZsj; laravel_session=4hUBFnsJu0N3JSzK2paubY1zjEobZW90BcR5gTYV
+
+POST /quiz/2 HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           ja,en-US;q=0.9,en;q=0.8
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Content-Length:            459
+Content-Type:              multipart/form-data; boundary=----WebKitFormBoundary7HAT90xchOsjVo8V
+Cookie:                    XSRF-TOKEN=eyJpdiI6InA1bmc3OFZ4M1I5NHEydXdXdnJ5M3c9PSIsInZhbHVlIjoiN2JGQko3U2JFNVJXOWlBMStlNEFMMHFUTWU4WTRwT29nVnhaMDgvUjRHM1g2M0p2bGxkT3N6cjZ2ZnVDdDZqKzFONWJIOVBpWWpObGNySHhRcVJZR3Y1anFSeGtvbitQcU1jTUVaMmxUTjY5S0diWS9xWXlENVdHMFdwczdQWVQiLCJtYWMiOiIwNGNlYjcyN2FkMjFhNTI5YjgyYjcxYWNjZGJiOGE2NjZlOWI0ZWQ2NmZhZjMyZmZkNGI3ZmFiMzAwZGE5YjM1IiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6Imhub0RnOGN2RnlqL1FHbkluL0Zka1E9PSIsInZhbHVlIjoiSm1uZVNWcHhnNkgxVjZTdHQrQ2xkWE5wMUg3UXVUT0pOVHlySEJVd2VMQktadUZpNXRLTTc2U2ZucUNlaU9YRkVxVEcwMTRGVThFRklBdjhHdC9TZXlUZnJ4cnhhVjlQVVBoZ2Z2bllDRW0rUExZTHhoTDlmS01TOGZBaFhkUUgiLCJtYWMiOiJjODU4Y2E2MTZkMjQ1ZjVhM2UyMDU1Zjk4M2FhYmYzNTAyODk0Njk0NTA2YmY1OTc2YmNhOGRiZjI5M2Q4MjU5IiwidGFnIjoiIn0%3D
+Host:                      localhost:8000
+Origin:                    http://localhost:8000
+Referer:                   http://localhost:8000/quiz/1
+Sec-Ch-Ua:                 " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        "Windows"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            same-origin
+Sec-Fetch-User:            ?1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+Cookie: XSRF-TOKEN=5qhrNMgIKDOJTCY2bRZPsV8powDLT5p1LKxpxZsj; laravel_session=4hUBFnsJu0N3JSzK2paubY1zjEobZW90BcR5gTYV
+
+10112375577;?505678910141
